@@ -11,7 +11,7 @@
   color: white;
   border-radius: 10px;
   margin-bottom: 30px;
-  background: url('C:\Users\prakh\OneDrive\Desktop\health_monitor\health_monitor\frontend\src\components\med.jpg') no-repeat center center;
+  background: url('/workspaces/Health-Monitoring-System/frontend/src/components/med.jpg') no-repeat center center;
   background-size: cover;
   position: relative;
 }
